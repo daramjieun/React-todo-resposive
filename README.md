@@ -1,1 +1,3 @@
-# React-todo-resposive
+# 컴포넌트 하나로 todo 만들기
+
+# 컴포넌트 관심사 별로 구분 (완성)
